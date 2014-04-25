@@ -4,8 +4,8 @@ This directive allows you to add [CodeMirror](http://codemirror.net/) to your te
 
 ## Requirements
 
-- AngularJS
-- [CodeMirror 3.19.x](https://github.com/marijnh/CodeMirror)
+- [AngularJS 1.3.x](https://angularjs.org)
+- [CodeMirror 4.1.x](https://github.com/marijnh/CodeMirror)
 
 
 ## Usage
@@ -148,7 +148,7 @@ We have one task to serve them all !
 grunt serve
 ```
 
-It's equal to run separately: 
+It's equal to run separately:
 
 * `grunt connect:server` : giving you a development server at [http://localhost:8000/](http://localhost:8000/).
 
